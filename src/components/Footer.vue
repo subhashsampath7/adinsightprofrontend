@@ -15,7 +15,7 @@
             <div class="w-10 h-10 bg-gradient-to-br from-primary to-purple-600 rounded-lg flex items-center justify-center">
               <i class="fas fa-chart-line text-white text-xl"></i>
             </div>
-            <span class="text-xl font-bold">L2G ADS</span>
+            <span class="text-xl font-bold">AdInsight Pro</span>
           </div>
           <p class="text-gray-400 leading-relaxed mb-6">
             Make better advertising decisions with powerful AI-powered data analysis tools for Google Ads Transparency.
@@ -147,7 +147,7 @@
       <div class="border-t border-gray-800 pt-8">
         <div class="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div class="text-gray-400 text-sm text-center md:text-left">
-            <p>&copy; 2026 Google Ads Transparency Extension. All rights reserved.</p>
+            <p>&copy; 2026 AdInsight Pro. All rights reserved.</p>
           </div>
           <div class="flex flex-wrap justify-center md:justify-end space-x-6 text-sm">
             <a href="#" class="text-gray-400 hover:text-white transition-colors">Privacy Policy</a>
