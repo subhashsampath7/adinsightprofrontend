@@ -93,7 +93,7 @@
               <div class="bg-gradient-to-r from-blue-600 to-purple-600 p-4 flex items-center justify-between">
                 <div class="flex items-center space-x-2">
                   <i class="fas fa-chart-line text-white text-xl"></i>
-                  <span class="text-white font-bold">L2G ADS</span>
+                  <span class="text-white font-bold">Adinsight Pro</span>
                 </div>
                 <div class="flex items-center space-x-2">
                   <span class="bg-green-400 text-white text-xs px-3 py-1 rounded-full font-semibold">
